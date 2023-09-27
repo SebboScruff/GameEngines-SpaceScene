@@ -1,0 +1,11 @@
+﻿  GameEngine.cpp
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\Camera.h(55,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\Camera.h(58,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\Camera.h(110,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\Camera.h(113,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\GameEngine.cpp(150,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\GameEngine.cpp(238,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\GameEngine.cpp(240,35): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\GameEngine.cpp(241,36): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Uni stuff\Y2S2\Engines\GameEngines\GameEngines\GameEngine.cpp(242,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameEngines.vcxproj -> F:\Uni stuff\Y2S2\Engines\GameEngines\Debug\GameEngines.exe

@@ -1,0 +1,38 @@
+﻿  GameEngine.cpp
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(55,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(58,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(110,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(113,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\GameEngine.cpp(150,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\GameEngine.cpp(238,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\GameEngine.cpp(240,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\GameEngine.cpp(241,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\GameEngine.cpp(242,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(55,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(58,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(110,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(113,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Model.cpp
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Model.cpp(20,33): warning C4018: '<': signed/unsigned mismatch
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Model.cpp(23,34): warning C4018: '<': signed/unsigned mismatch
+  ModelRenderer.cpp
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(55,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(58,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(110,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(113,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  RenderUtils.cpp
+  ShaderUtils.cpp
+  Skybox.cpp
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(55,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(58,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(110,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\GameEngines\Camera.h(113,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Terrain.cpp
+  Texture.cpp
+  Generating code
+  423 of 431 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameEngines.vcxproj -> D:\Uni stuff\Legacy Repos\GameEngines-SpaceScene\GameEngines\Release\GameEngines.exe
